@@ -1,3 +1,3 @@
 # JavaScript-Web-Tokens-Authorization
 
-A BAsic JWT Authorization projects
+A BAsic JWT Authorization project
