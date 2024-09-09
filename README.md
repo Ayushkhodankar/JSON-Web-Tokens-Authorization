@@ -1,4 +1,7 @@
 # JSON-Web-Tokens-Authorization
+
+<img src="https://th.bing.com/th/id/OIP.1A34osrtczMKlCKGfoXYXAHaED?rs=1&pid=ImgDetMain" alt="jwt"></img>
+
  What is a JSON Web Token?
 
 JSON Web Token (JWT) is a _general-purpose_ text-based messaging format for transmitting information in a
